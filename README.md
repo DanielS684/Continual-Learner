@@ -1,2 +1,2 @@
 # Continual-Learner
-This is just my Repository that holds my Continual Learning projects
+This is just the repository that holds the links to my Continual Learning projects
